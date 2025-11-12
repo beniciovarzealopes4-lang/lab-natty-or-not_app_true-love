@@ -36,5 +36,33 @@ IA Generativa não limita, expande a criatividade!
 
 ### Link Vídeo
 
-(https://drive.google.com/file/d/1IAhSH9Z0_Y1w1bs1aHLJvIPMkm_30vRl/view?usp=drive_link))
+(https://drive.google.com/file/d/1IAhSH9Z0_Y1w1bs1aHLJvIPMkm_30vRl/view?usp=drive_link)
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/238578676?v=4"
+    />
+    <p>&nbsp&nbsp&nbspBenicio Várzea Lopes<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/beniciovarzealopes4-lang">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/
+benicio-varzea-lopes/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/beniciovarzea/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+Feito com 🤗 por [Benício Várzea Lopes](https://github.com/beniciovarzealopes4-lang)
+
 
