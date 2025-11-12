@@ -32,13 +32,13 @@ O vídeo criado para o app fictício True Love - relacionamentos verdadeiros, tr
 - [Canva](https://www.canva.com/pt_br)  
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi muito interessante criar e praticar nas ferramentas de IA Generativa. Como sou redator pensei na ideia e fiz o roteiro inicial. Depois pedi ao Chat GPT que me ajudasse a melhorar o roteiro e desse sugestões de "sentimentos" para a interpretação da personagem central, para dar mais contexto e qualidade ao "prompt". Depois, como já gastei meus créditos no Midjourney e no VEO 3, parti então para fazer no HeyGen, aproveitando o "video agent" e o próprio "studio" com avatares prontos. Na própria ferramenta, editei o vídeo e escolhi a trilha do BG. Depois de gerado o MP4, terminei a edição e refinei ainda mais utilizando o editor de vídeos do Canva. Mas a sensação de satisfação ao ver o vídeo, num formato de coomercial 30/45", pronto, editado e finalizado, é gratificante! O desafio foi muito bom!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Meu primerio vídeo inteiramente feito com ferramentas de IA que agora faz parte do meu portfólio. 
 
 ## 💭 Reflexão (Opcional)
-Foi muito interessante criar e praticar nas ferramentas de IA Generativa. Como sou redator pensei na ideia e fiz o roteiro inicial. Depois pedi ao Chat GPT que me ajudasse a melhorar o roteiro e desse sugestões de "sentimentos" para a interpretação da personagem central, para dar mais contexto e qualidade ao "prompt". Depois, como já gastei meus créditos no Midjourney e no VEO 3, parti então para fazer no HeyGen, aproveitando o "video agent" e o próprio "studio" com avatares prontos. Na própria ferramenta, editei o vídeo e escolhi a trilha do BG. Depois de gerado o MP4, terminei a edição e refinei ainda mais utilizando o editor de vídeos do Canva. Mas a sensação de satisfação ao ver o vídeo, num formato de coomercial 30/45", pronto, editado e finalizado, é gratificante! O desafio foi muito bom!
+IA Generativa não limita, expande a criatividade! 
 ```
 
 ### Exemplos e Insigths
