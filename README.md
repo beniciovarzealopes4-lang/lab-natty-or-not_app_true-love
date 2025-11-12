@@ -4,10 +4,6 @@
 
 Fala pessoal, espero que vocês curtam o vídeo e se divirtam como eu me diverti fazendo esse projeto/desafio! E se estiverem procurando relacionamento nos sites e apps, fiquem espertos!🎯
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-
 ### Template
 
 ```markdown
