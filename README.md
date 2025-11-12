@@ -10,10 +10,9 @@ Fala pessoal, espero que vocês curtam o vídeo e se divirtam como eu me diverti
 # Aplicativo True Love
 
 ## 📒 Descrição
-O vídeo criado para o app fictício True Love - relacionamentos verdadeiros, traz uma história divertida contada por uma usuária.
-É um comercial que tem por objetivo mostrar que hoje está cada vez mais difícil distinguir se você está falando com uma pessoa
-ou com uma IA. Principalmente num site de relacionamentos. A ideia é divulgar o True Love, mostrando que é absolutamente normal
-ficar na dúvida. O próprio vídeo incorpora uma fala muito comum das IAs Generativas ao final da execução de uma tarefa.
+O vídeo criado para o app fictício True Love - relacionamentos verdadeiros, traz uma história divertida contada por
+uma usuária que tem por objetivo mostrar que hoje está cada vez mais difícil distinguir se você está falando com uma
+pessoa ou com uma IA. Principalmente num site de relacionamentos. 
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -22,15 +21,14 @@ ficar na dúvida. O próprio vídeo incorpora uma fala muito comum das IAs Gener
 - [Canva](https://www.canva.com/pt_br)  
 
 ## 🧐 Processo de Criação
-Foi muito interessante criar e praticar nas ferramentas de IA Generativa. Como sou redator pensei na ideia e fiz o roteiro
-inicial. Depois pedi ao Chat GPT que me ajudasse a melhorar o roteiro e desse sugestões para a interpretação da personagem,
-para dar mais contexto e qualidade ao "prompt". Depois, como já usei meus créditos no Midjourney e no VEO 3, parti então
-para fazer no HeyGen, aproveitando o "video agent" e o próprio "studio" com avatares prontos. Lá mesmo editei o vídeo e
-escolhi a trilha/BG. Depois de gerado o MP4, terminei a edição e refinei ainda mais utilizando o editor de vídeos do Canva.
-A satisfação de ver o vídeo pronto é gratificante, o desafio foi muito bom!
+Foi muito interessante criar e praticar nas ferramentas de IA Generativa. Como sou redator pensei na ideia e fiz
+o roteiro inicial. Depois pedi ao Chat GPT que me ajudasse a melhorá-lo e desse sugestões para a interpretação da
+personagem, dando mais contexto e qualidade ao "prompt". Depois, utilizei o HeyGen, aproveitando o "video agent"
+e o próprio "studio" com avatares prontos. Lá mesmo escolhi a trilha/BG. Depois de gerado o MP4, terminei a edição
+e refinei ainda mais no editor de vídeos do Canva.
 
 ## 🚀 Resultados
-Meu primerio vídeo inteiramente feito com ferramentas de IA que agora faz parte do meu portfólio. 
+Meu primerio vídeo feito com ferramentas de IA que agora faz parte do meu portfólio. O desafio foi muito bom! 
 
 ## 💭 Reflexão (Opcional)
 IA Generativa não limita, expande a criatividade! 
