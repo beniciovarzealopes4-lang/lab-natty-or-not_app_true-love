@@ -10,7 +10,11 @@ Fala pessoal, espero que vocês curtam o vídeo e se divirtam como eu me diverti
 # Aplicativo True Love
 
 ## 📒 Descrição
-O vídeo criado para o app fictício True Love - relacionamentos verdadeiros, traz uma história divertida contada por uma usuária. É um comercial que tem por objetivo mostrar que hoje está cada vez mais difícil distinguir se você está falando com uma pessoa ou com uma IA. Principalmente num site de relacionamentos. A ideia é fazer com que as pessoas se conectem ao True Love, mostrando que é absolutamente normal ficar na dúvida.O próprio vídeo faz uma provocação, incorporando uma fala muito comum das IAs Generativas ao final da execução de uma tarefa.
+O vídeo criado para o app fictício True Love - relacionamentos verdadeiros, traz uma história divertida contada por uma usuária.
+É um comercial que tem por objetivo mostrar que hoje está cada vez mais difícil distinguir se você está falando com uma pessoa
+ou com uma IA. Principalmente num site de relacionamentos. A ideia é fazer com que as pessoas se conectem ao True Love, mostrando
+que é absolutamente normal ficar na dúvida. O próprio vídeo faz uma provocação, incorporando uma fala muito comum das
+IAs Generativas ao final da execução de uma tarefa.
 
 ## 🤖 Tecnologias Utilizadas
 
