@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? App True Love - Relacionamentos Verdadeiros em época de IA Generativa
 
 ## 🚀 Introdução
 
