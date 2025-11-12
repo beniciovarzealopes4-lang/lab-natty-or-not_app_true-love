@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? App True Love - Relacionamentos Verdadeiros em época de IA Generativa
+# Natural ou Fake Natty? Relacionamentos Verdadeiros em época de IA Generativa.
 
 ## 🚀 Introdução
 
@@ -20,13 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aplicativo True Love
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O vídeo criado para o app fictício True Love - relacionamentos verdadeiros, traz uma história divertida contada por uma usuária. É um comercial que tem por objetivo mostrar que hoje está cada vez mais difícil distinguir se você está falando com uma pessoa ou com uma IA. Principalmente num site de relacionamentos, onde se postam conteúdos como vídeos, entre outros. A ideia é fazer com que as pessoas se conectem ao True Love, mostrando que é absolutamente normal ficar na dúvida.O próprio vídeo faz uma provocação nesse sentido, incorporando uma fala muito comum das IAs Generativas ao final da execução de uma tarefa. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- [ChatGPT](https://chat.openai.com/) 
+- [Heygen](https://app.heygen.com/login)
+- [Canva](https://www.canva.com/pt_br)  
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
@@ -35,13 +38,10 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito interessante criar e praticar nas ferramentas de IA Generativa. Como sou redator pensei na ideia e fiz o roteiro inicial. Depois pedi ao Chat GPT que me ajudasse a melhorar o roteiro e desse sugestões de "sentimentos" para a interpretação da personagem central, para dar mais contexto e qualidade ao "prompt". Depois, como já gastei meus créditos no Midjourney e no VEO 3, parti então para fazer no HeyGen, aproveitando o "video agent" e o próprio "studio" com avatares prontos. Na própria ferramenta, editei o vídeo e escolhi a trilha do BG. Depois de gerado o MP4, terminei a edição e refinei ainda mais utilizando o editor de vídeos do Canva. Mas a sensação de satisfação ao ver o vídeo, num formato de coomercial 30/45", pronto, editado e finalizado, é gratificante! O desafio foi muito bom!
 ```
 
 ### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
