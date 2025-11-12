@@ -36,5 +36,5 @@ IA Generativa não limita, expande a criatividade!
 
 ### Link Vídeo
 
-[App Relacionamento](https://drive.google.com/file/d/1IAhSH9Z0_Y1w1bs1aHLJvIPMkm_30vRl/view?usp=drive_link))
+(https://drive.google.com/file/d/1IAhSH9Z0_Y1w1bs1aHLJvIPMkm_30vRl/view?usp=drive_link))
 
