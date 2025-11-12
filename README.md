@@ -2,7 +2,7 @@
 
 ## 🚀 Introdução
 
-Fala pessoal, espero que vocês curtam o vídeo e se divirtam como eu me diverti fazendo esse projeto/desafio! E se estiverem procurando relacionamento nos sites e apps, fiquem espertos!🎯
+Fala pessoal, espero que vocês curtam o vídeo e se divirtam como eu me diverti fazendo esse projeto/desafio! E quem estiver procurando relacionamento nos sites e apps, fique esperto(a)!🎯
 
 ### Template
 
