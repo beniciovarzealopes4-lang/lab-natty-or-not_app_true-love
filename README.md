@@ -25,7 +25,7 @@ Foi muito interessante criar e praticar nas ferramentas de IA Generativa. Como s
 e fiz o roteiro inicial. Depois pedi ao Chat GPT que me ajudasse a melhorá-lo e desse sugestões para a
 interpretação da personagem, dando mais contexto e qualidade ao "prompt". Depois, utilizei o HeyGen,
 aproveitando o "video agent" e o próprio "studio" com avatares prontos. Depois de gerado o MP4, terminei
-a ediçãoe refinei ainda mais no editor de vídeos do Canva.
+a edição e refinei ainda mais no editor de vídeos do Canva.
 
 ## 🚀 Resultados
 Meu primerio vídeo feito com ferramentas de IA que agora faz parte do meu portfólio. O desafio foi muito bom! 
